@@ -1,0 +1,20 @@
+{
+  "project" : {
+    "id" : "kulinarnaya_kniga-1624-QIv",
+    "name" : "kulinarnaya_kniga-1624-QIv",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "extendedSettings" : {
+      "tokenizerEngine" : "default"
+    },
+    "shared" : false
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ ]
+}

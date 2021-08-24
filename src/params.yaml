@@ -1,0 +1,197 @@
+{
+    "catchAll": {
+        "phrases": [
+            "Извините, непонятно"
+        ]
+    },
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": ""
+            },
+            "channels": []
+        },
+        "actions": [
+            {
+                "state": "/newNode_0",
+                "action": "Первый экран",
+                "color": "#D6F5E2"
+            },
+            {
+                "state": "/newNode_5",
+                "action": "Предложить завтрак",
+                "color": "#CAF1B7"
+            },
+            {
+                "state": "/newNode_7",
+                "action": "Предложить обед",
+                "color": "#CAF1B7"
+            },
+            {
+                "state": "/newNode_12",
+                "action": "Завтраки",
+                "color": "#F6DAF7"
+            },
+            {
+                "state": "/newNode_13",
+                "action": "Все рецепты",
+                "color": "#F6DAF7"
+            },
+            {
+                "state": "/newNode_16",
+                "action": "Обеды",
+                "color": "#F6DAF7"
+            },
+            {
+                "state": "/newNode_18",
+                "action": "Текущее время",
+                "color": "#F5D7D6"
+            },
+            {
+                "state": "/newNode_29",
+                "action": "Создание рецепта",
+                "color": "#DEECC1"
+            },
+            {
+                "state": "/newNode_31",
+                "action": "Сохранение рецепта",
+                "color": "#F6DAF7"
+            },
+            {
+                "state": "/newNode_24",
+                "action": "Определение времени",
+                "color": "#F5D7D6"
+            },
+            {
+                "state": "/newNode_25",
+                "action": "Предложить ужин",
+                "color": "#CAF1B7"
+            },
+            {
+                "state": "/newNode_27",
+                "action": "Ужины",
+                "color": "#F6DAF7"
+            },
+            {
+                "state": "/newNode_20",
+                "action": "Создание рецепта",
+                "color": "#DEECC1"
+            },
+            {
+                "state": "/newNode_28",
+                "action": "Определение персонаж",
+                "color": "#DBE6E2"
+            },
+            {
+                "state": "/newNode_32",
+                "action": "Сбер",
+                "color": "#D6F5E2"
+            },
+            {
+                "state": "/newNode_33",
+                "action": "Джой",
+                "color": "#F5D7D6"
+            },
+            {
+                "state": "/newNode_34",
+                "action": "Афина",
+                "color": "#DAEBF7"
+            },
+            {
+                "state": "/newNode_35",
+                "action": "Конвертер",
+                "color": "#F4BAC4"
+            },
+            {
+                "state": "/newNode_38",
+                "action": "Вес",
+                "color": "#F4BAC4"
+            },
+            {
+                "state": "/newNode_42",
+                "action": "Результат",
+                "color": "#DEECC1"
+            },
+            {
+                "state": "/newNode_39",
+                "action": "Завтраки",
+                "color": "#F7EEDA"
+            },
+            {
+                "state": "/newNode_40",
+                "action": "Завтраки",
+                "color": "#F7EEDA"
+            },
+            {
+                "state": "/newNode_43",
+                "action": "Обеды",
+                "color": "#D6F5E2"
+            },
+            {
+                "state": "/newNode_44",
+                "action": "Обеды",
+                "color": "#D6F5E2"
+            },
+            {
+                "state": "/newNode_45",
+                "action": "Ужины",
+                "color": "#D7CBF8"
+            },
+            {
+                "state": "/newNode_46",
+                "action": "Ужины",
+                "color": "#D7CBF8"
+            },
+            {
+                "state": "/newNode_51",
+                "action": "Сохранение рецепта",
+                "color": "#F6DAF7"
+            },
+            {
+                "state": "/newNode_52",
+                "action": "Успешно",
+                "color": "#CAF1B7"
+            },
+            {
+                "state": "/newNode_53",
+                "action": "Ошибка",
+                "color": "#F4BAC4"
+            },
+            {
+                "state": "/newNode_56",
+                "action": "Ввод веса",
+                "color": "#F5D7D6"
+            },
+            {
+                "state": "/newNode_58",
+                "action": "Ввод объема",
+                "color": "#F5D7D6"
+            },
+            {
+                "state": "/newNode_59",
+                "action": "Ввод температуры",
+                "color": "#F5D7D6"
+            },
+            {
+                "state": "/newNode_61",
+                "action": "Результат",
+                "color": "#DEECC1"
+            },
+            {
+                "state": "/newNode_60",
+                "action": "Результат",
+                "color": "#DEECC1"
+            },
+            {
+                "state": "/newNode_57",
+                "action": "Объем",
+                "color": "#F4BAC4"
+            },
+            {
+                "state": "/newNode_63",
+                "action": "Температура",
+                "color": "#F4BAC4"
+            }
+        ]
+    }
+}
